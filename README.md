@@ -1,2 +1,2 @@
 # gitkills1
-hello
+hello is 2
